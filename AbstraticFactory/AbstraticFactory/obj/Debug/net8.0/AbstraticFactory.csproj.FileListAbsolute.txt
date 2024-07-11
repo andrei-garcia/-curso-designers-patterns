@@ -1,0 +1,14 @@
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\bin\Debug\net8.0\AbstraticFactory.exe
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\bin\Debug\net8.0\AbstraticFactory.deps.json
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\bin\Debug\net8.0\AbstraticFactory.runtimeconfig.json
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\bin\Debug\net8.0\AbstraticFactory.dll
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\bin\Debug\net8.0\AbstraticFactory.pdb
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\obj\Debug\net8.0\AbstraticFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\obj\Debug\net8.0\AbstraticFactory.AssemblyInfoInputs.cache
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\obj\Debug\net8.0\AbstraticFactory.AssemblyInfo.cs
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\obj\Debug\net8.0\AbstraticFactory.csproj.CoreCompileInputs.cache
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\obj\Debug\net8.0\AbstraticFactory.dll
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\obj\Debug\net8.0\refint\AbstraticFactory.dll
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\obj\Debug\net8.0\AbstraticFactory.pdb
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\obj\Debug\net8.0\AbstraticFactory.genruntimeconfig.cache
+C:\designers-patterns\AbstraticFactory\AbstraticFactory\obj\Debug\net8.0\ref\AbstraticFactory.dll

@@ -1,0 +1,14 @@
+C:\designers-patterns\Bluider\Bluider\bin\Debug\net8.0\Bluider.exe
+C:\designers-patterns\Bluider\Bluider\bin\Debug\net8.0\Bluider.deps.json
+C:\designers-patterns\Bluider\Bluider\bin\Debug\net8.0\Bluider.runtimeconfig.json
+C:\designers-patterns\Bluider\Bluider\bin\Debug\net8.0\Bluider.dll
+C:\designers-patterns\Bluider\Bluider\bin\Debug\net8.0\Bluider.pdb
+C:\designers-patterns\Bluider\Bluider\obj\Debug\net8.0\Bluider.GeneratedMSBuildEditorConfig.editorconfig
+C:\designers-patterns\Bluider\Bluider\obj\Debug\net8.0\Bluider.AssemblyInfoInputs.cache
+C:\designers-patterns\Bluider\Bluider\obj\Debug\net8.0\Bluider.AssemblyInfo.cs
+C:\designers-patterns\Bluider\Bluider\obj\Debug\net8.0\Bluider.csproj.CoreCompileInputs.cache
+C:\designers-patterns\Bluider\Bluider\obj\Debug\net8.0\Bluider.dll
+C:\designers-patterns\Bluider\Bluider\obj\Debug\net8.0\refint\Bluider.dll
+C:\designers-patterns\Bluider\Bluider\obj\Debug\net8.0\Bluider.pdb
+C:\designers-patterns\Bluider\Bluider\obj\Debug\net8.0\Bluider.genruntimeconfig.cache
+C:\designers-patterns\Bluider\Bluider\obj\Debug\net8.0\ref\Bluider.dll
